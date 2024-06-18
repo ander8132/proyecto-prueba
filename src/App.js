@@ -1,21 +1,19 @@
-import logo from './logo.svg';
+import balon from './balon.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={balon} className="App-logo" alt="logo" />
+     
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="inicio.js"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          G-STATS
         </a>
       </header>
     </div>
