@@ -12,7 +12,8 @@ function App() {
           href="./pages/inicio.js"
          
         >
-          G-STATS
+         INICIO G STATS
+
         </a>
       </header>
     </div>
