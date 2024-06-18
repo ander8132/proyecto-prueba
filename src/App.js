@@ -9,7 +9,7 @@ function App() {
      
         <a
           className="App-link"
-          href="inicio.js"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
